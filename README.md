@@ -11,16 +11,16 @@ How to Play
 
 2. Install Pygame
 
-    pip install pygame
+        pip install pygame
 
 3. Set message skip flag in FlappyBird.py
 
-    # message skip or not
-    SKIP_MESSAGE = False
+        # message skip or not
+        SKIP_MESSAGE = False
 
 4. Start Game
 
-    python FlappyBird.py
+        python FlappyBird.py
 
 5. Use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
